@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of His Grace, James Duke of Ormond, Lord Lieutenant of Ireland, to both Houses of Parliament, on Saturday the 27 of September, 1662. Upon His Graces giving the royal assent to several Acts of Parliament.</title>
+            <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53442</idno>
+            <idno type="STC">Wing O459</idno>
+            <idno type="STC">ESTC R214479</idno>
+            <idno type="EEBO-CITATION">99826645</idno>
+            <idno type="PROQUEST">99826645</idno>
+            <idno type="VID">31050</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31050)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1766:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of His Grace, James Duke of Ormond, Lord Lieutenant of Ireland, to both Houses of Parliament, on Saturday the 27 of September, 1662. Upon His Graces giving the royal assent to several Acts of Parliament.</title>
+                  <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Crook, printer to the Kings most Excellent Majesty, and are to be sold by Sam. Dancer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31050:1" rendition="simple:additions"/>
+            <p>THE SPEECH OF His Grace, JAMES DUKE of ORMOND, Lord Lieutenant of <hi>Ireland,</hi> To both HOUSES of PARLIAMENT, On <hi>Saturday</hi> the 27 of <hi>September,</hi> 1662. Upon His GRACES giving the Royal Aſſent to ſeveral Acts of Parliament.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>John Crook,</hi> Printer to the KINGS moſt Excellent MAJESTY, and are to be ſold by <hi>Sam. Dancer,</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:31050:2"/>
+            <pb n="3" facs="tcp:31050:2" rendition="simple:additions"/>
+            <head>THE SPEECH Of his GRACE <hi>James</hi> Duke of <hi>Ormond,</hi> Lord Lieutenant of <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here is no duty incident to the Place I have the Honour to ſerve the KING in, to which I come with leſs willing<g ref="char:EOLhyphen"/>neſs, or confidence, than to this of ſpeaking to ſuch an <hi>Aſſembly:</hi> And by that time I have done, you will acknow<g ref="char:EOLhyphen"/>ledge I have reaſon to be unſatisfied with the neceſſity impoſed by cuſtom upon all that ſit in this Place, to make ſpeeches; a <hi>Cuſtom</hi> perhaps reaſonably
+<pb n="4" facs="tcp:31050:3"/>introduced by thoſe that did, or at leaſt thought they did it well; but ſomewhat hardly continued upon thoſe that were ſure they did it ill. And yet though I am in the <hi>Number of the laſt,</hi> I will rather obey the <hi>Neceſſity,</hi> than hazard the Imputation of <hi>Sullenneſs</hi> or <hi>Singulari<g ref="char:EOLhyphen"/>ty.</hi> Beſides, I do not know, but that to be ſilent at this time, and in this place, may be a <hi>greater Fault</hi> than any I hope I ſhall commit in ſpeaking; for we are taught by <hi>Infallible Authority,</hi> and enjoyned by <hi>Indiſpenſable Precept,</hi> and it ſeems to be agreeable to the Dictates of <hi>Nature</hi> and <hi>Reaſon,</hi> as well as of <hi>Religion</hi> and <hi>Piety,</hi> that for all the Bleſſings we receive from the <hi>Divine Majeſtie,</hi> we ſhould make as proportionable Returns as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e within our Power: And therefore <hi>Publique</hi> and <hi>National Bleſ<g ref="char:EOLhyphen"/>ſings,</hi> do require <hi>Publique</hi> and <hi>Solemn Celebrations.</hi> This was it that induced the Tranſmiſſion of that Act for an <hi>Anniverſary Thanksgiving for His Majeſties moſt Happy Reſtitution;</hi> and this is it, which if it be duly, that is, ſincerely performed, is moſt like to perpetuate to us, and to our Poſterity, all the <hi>Happineſſes</hi> conſequent to that <hi>Bleſſing.</hi>
+            </p>
+            <p>What theſe <hi>Happineſſes</hi> are, or at leaſt may be, if we Our ſelves obſtruct not the courſe of them, would be beſt diſcerned, and ſet off, by a <hi>Retroſpect</hi> into the ſtate of things for above twenty years paſt; and by op<g ref="char:EOLhyphen"/>poſing to that <hi>diſmal Object</hi> of Our remembrance, the <hi>cheerfulneſs</hi> and <hi>Serenity</hi> of the <hi>Proſpect</hi> forwards.</p>
+            <p>If the <hi>Miſeries</hi> and <hi>Deſolations</hi> of thoſe years could be enumerated in the time I mean to allow this Diſ<g ref="char:EOLhyphen"/>courſe; or if they could be deſcribed to the life, by ſo ill an Orator as I am, they would be fewer, and more ſupportable than I doubt the ſad experience of too many have found them to be.</p>
+            <p>I ſhall therefore onely put you in minde of ſome more <hi>Remarkable</hi> and <hi>Fundamental deliverances</hi> and <hi>Re<g ref="char:EOLhyphen"/>ſtitutions,</hi> wrought by moſt <hi>wonderful Providence,</hi> as a
+<pb n="5" facs="tcp:31050:3" rendition="simple:additions"/>thankful acknowledgement fit, as I conceive, to be the ſubject of the firſt diſcourſe from this place, where I have the Honor, how unworthily, and how unreſem<g ref="char:EOLhyphen"/>blingly ſoever, to repreſent the Majeſtie of my <hi>Great Maſter.</hi>
+            </p>
+            <p>This very <hi>Seat of Royalty</hi> is delivered from ſome neglected corner, or contemptible uſe, or from a Pro<g ref="char:EOLhyphen"/>phanation worſe than either from the Uſurpation of mean and low Aſpirers, who having no ſhadow of right to it, had no other way to aſcend it, than by treading down and deſtroying what ever was ordained by God or man, to fence and guard it; their extravagant Ambi<g ref="char:EOLhyphen"/>tion tranſporting them, and darkening their under<g ref="char:EOLhyphen"/>ſtanding to that degree, as not to conſider how ſhort their poſſeſſion of that Throne muſt be, to the diſarm<g ref="char:EOLhyphen"/>ing and violation of which, they themſelves had but newly ſhewn the way.</p>
+            <p>We ſee this Throne now reſtored to its proper place, and Natural uſe, ſurrounded and ſupported by <hi>Peers</hi> and <hi>Prelates,</hi> by <hi>Officers, Magiſtrates</hi> and <hi>Judges,</hi> the Outworks, as well as Ornaments of Majeſtie.</p>
+            <p>We ſee it reſtored to the approach, and I doubt not to the delight of the meaneſt of the Commons, whom you Gentlemen do, nor ought not diſdain to repreſent; for they are the <hi>Foundation</hi> upon which <hi>Monarchy</hi> is built, the <hi>ſtrength</hi> wherewith it is guarded, and the <hi>wealth</hi> whereby it is ſuſtained, inriched and beauti<g ref="char:EOLhyphen"/>fied.</p>
+            <p>It is reſtored to the <hi>undoubted Lawful Poſſeſſor,</hi> the <hi>Ofspring</hi> of a long continued <hi>Race</hi> of <hi>Princes;</hi> in whom all the <hi>Conteſted Titles</hi> of former Ages are met, without the pretence of a <hi>Competitor,</hi> and in whom all the <hi>Vir<g ref="char:EOLhyphen"/>tues</hi> of the <hi>Princes</hi> of thoſe Ages are united, without the ſeverity (to ſay no worſe) of ſome of the Great and Warlike; &amp; without the as harmful weakneſſes of others of more devout and peaceable diſpoſitions: A PRINCE
+<pb n="6" facs="tcp:31050:4"/>that hath given frequent proof that though he loves and ſeeke peace for his Subjects ſakes, he fears not war for his own.</p>
+            <p>This Sword<g ref="char:punc">▪</g> the Inſtrument of conferring Military Honor, and the Emblem of inflicting Puniſhment, is delivered from the ridiculous Stage-like Pageantry of later times, and from a more execrable and Tragical Abuſe, from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utting off the moſt Innocent, and defend<g ref="char:EOLhyphen"/>ing the moſt guilty.</p>
+            <p>We ſee it now by the viſible, immediate hand of God reſtored, and put into that <hi>Hand</hi> that onely had <hi>His Commiſsion</hi> to bear and uſe it; and let it be <hi>Our Prayer.</hi> That he bear it long, and that he may bear it long, that he bear it not in vain, but to the <hi>terror</hi> and <hi>exterminati<g ref="char:EOLhyphen"/>on</hi> if <hi>evil Doers,</hi> and to the <hi>ſupport</hi> and <hi>Protection</hi> of thoſe that do well.</p>
+            <p>The <hi>King</hi> himſelf, whoſe <hi>Throne</hi> and <hi>Sword</hi> theſe are, is accountable to God, and We to God for him, for many and <hi>great deliverances:</hi> He is delivered from the Mur<g ref="char:EOLhyphen"/>therers of his <hi>Father,</hi> and the Uſurpers of his <hi>Inheritance;</hi> from their reſtleſs endeavours to deſtroy his Perſon, and to blaſt his Fame; from their open violence, and ſecret contrivements againſt both from Exile, and all the Af<g ref="char:EOLhyphen"/>flicting conſequences of that miſerable ſtate of a King; from comfortleſs wandrings for Protection; from cold Receptions; from narrow ſupports, and from ſuch appli<g ref="char:EOLhyphen"/>cations for them, as were more unſupportable, than the want of them could be to him that was born, and de<g ref="char:EOLhyphen"/>lights to give, rather than receive them. He is delivered from a continual tormenting Anxiety for the danger of his Friends, and the oppreſſion and ſlavery of his Coun<g ref="char:EOLhyphen"/>trey; from the importunity of impertinent Arguments, drawn from his misfortunes, to draw him from his Reli<g ref="char:EOLhyphen"/>gion, and from a neceſſity of hearing, and bearing with the Reproaches and Revilings caſt upon our then Deſo<g ref="char:EOLhyphen"/>late Church, onely becauſe ſhe was deſolate, &amp; made ſo by her own <hi>unnatural Children.</hi>
+            </p>
+            <pb n="7" facs="tcp:31050:4" rendition="simple:additions"/>
+            <p>From this dejected, deſpiſed, and in all humane ap<g ref="char:EOLhyphen"/>pearance, deſperate condition, he is raiſed and reſtored to the Throne of his Fathers, to his Native Countrey, be<g ref="char:EOLhyphen"/>come more dear and valuable to him, by his experience of others, to the free and uncontrol'd exerciſe of the Re<g ref="char:EOLhyphen"/>ligion he was bred in, to a capacity of making Royal Re<g ref="char:EOLhyphen"/>tribution for any kindneſs he hath received abroad or from home: And which is the greateſt earthly Felici<g ref="char:EOLhyphen"/>ty, ſo good a KING as he could wiſh, he is not onely re<g ref="char:EOLhyphen"/>ſtored to, but by the love of his People, without the chargeable, and many times dangerous aſſiſtance, of Strangers, who are not over tender, not much diſtin<g ref="char:EOLhyphen"/>guiſhing betwixt the party they come to aſſiſt, and that they come to ſubdue, when they are made Umpires in ſuch Quarrels; for they rarely imploy their Auxiliary Treaſure and blood, purely out of Generoſity and Ju<g ref="char:EOLhyphen"/>ſtice, which may in Romance be found the ultimate end of ſuch Aſſiſtance, but ſeldom in the truth of <hi>Hiſtory.</hi>
+            </p>
+            <p>Here it may be obſerved, that if the revolt and devia<g ref="char:EOLhyphen"/>tion of our Nations from their KING, and from <hi>Monarchy</hi> it ſelf, was the moſt unreaſonable and prodigious that any age hath known, their voluntarie uncompelled Re<g ref="char:EOLhyphen"/>turn to both, is as much without example; nor indeed could the Return have been ſo miraculous, if the Revolt had not been ſo prodigious: And it may alſo be worth the obſerving, that as the firſt moſt bloodie Eruption from Peace to Rebellion, took birth in this Kingdom, ſo from hence came the firſt Overtures to Peace and Sub<g ref="char:EOLhyphen"/>miſſion.</p>
+            <p>By, and with the Kings deliverance and Reſtitution, our Church is delivered from Contempt, Sacriledge and Deſolation, and reſtored to a due veneration, a compe<g ref="char:EOLhyphen"/>tent improving ſupport, and to fair beginnings of De<g ref="char:EOLhyphen"/>cencie and Order.</p>
+            <p>Our Laws are delivered from corrupt, incompetent Interpreters, from monſtrous, unnatural expoſitions and
+<pb n="8" facs="tcp:31050:5"/>applications, and Juſtice is reſtored to the diſtribution of upright, learned, lawfullie ſworn and authorized Judges.</p>
+            <p>The nobleſt acts of <hi>Loyalty</hi> ſhall now no more receive the judgement due to the fowleſt Treaſon, due to the unrighteous Judges, that pronounced it without Autho<g ref="char:EOLhyphen"/>ritie in the Perſons, or Juſtice in the Sentence. High Courts of Juſtice ſhall no more uſurp that name, nor our Benches be crouded or oppreſſed with the throng and wicked weight of thoſe that ought rather to have ſtood manacled at the Bar. A happie change to thoſe for whoſe deſtruction thoſe extravagant Tribunals were erected, and a ſecure change to all; for it hath been often an obſerved method in Gods never failing Juſtice, to catch <hi>Cruelty</hi> and <hi>Oppreſsion</hi> in thoſe very ſnares they had prepared for others.</p>
+            <p>All men are delivered from the intanglements of two-edged Oathes; from the conflicts raiſed by them in mens breſts, betwixt Conſcience and conveniencie, betwixt the proſtitution of Conſcience, and the ruine of their Fortunes; than which a harder, a more <hi>Tyrannical choice</hi> cannot be obtruded upon Chriſtians: For here the <hi>electi<g ref="char:EOLhyphen"/>on</hi> was not, <hi>Swear thus againſt your Conſcience, or you ſhall have no part in the Civil Government, no Office in the Ar<g ref="char:EOLhyphen"/>my, no Benefice in the Church;</hi> but, <hi>Swear thus, or you ſhall have no houſe to put your head in, no bread to ſuſtain your ſelves, your wives and children.</hi>
+            </p>
+            <p>To conclude theſe Obſervations, Who is not delivered from ſome <hi>Oppreſſion,</hi> and reſtored to ſome <hi>Advantage;</hi> even thoſe that ſhall loſe <hi>the wages of iniquity,</hi> their ill got poſſeſſions, ſhall be delivered from the <hi>oppreſsion of a bad,</hi> and if they have any, ſhall be <hi>reſtored to a good Conſcience;</hi> if they have none, they were not in the <hi>Kings,</hi> and I hope will not be in <hi>Your</hi> care.</p>
+            <p>Thoſe that ſhall be kept out of their ancient Eſtates, the <hi>Inheritance of their Fathers,</hi> through defect of their
+<pb n="9" facs="tcp:31050:5" rendition="simple:additions"/>
+               <hi>Qualifications,</hi> and by the All-diſpoſing <hi>Providence of God,</hi> who was not pleaſed to make them active Inſtruments in this <hi>Happy Change,</hi> are delivered from Tyrannous Con<g ref="char:EOLhyphen"/>finements, cauſeleſs Impriſonments, and a continual fear of their lives: The good Land lies afore them, their in<g ref="char:EOLhyphen"/>duſtry is at Liberty, and they are reſtored to the free<g ref="char:EOLhyphen"/>dom of Subjects, and protection of the Laws: If an <hi>Iriſh Papiſt</hi> be oppreſt, they ſhall relieve him; if the blood of the meaneſt of them be ſhed, it ſhall be ſtrictlie enquired after; Let this ſtate be compared with that they were in before the <hi>Kings Reſtitution,</hi> and it will be found the greateſt looſer has got ſomething by it.</p>
+            <p>As it is <hi>our duty</hi> thus thankfully to <hi>commemorate</hi> theſe <hi>great things</hi> done for us; ſo it is <hi>our duty</hi> to <hi>endeavour</hi> in our ſeveral <hi>Stations,</hi> to <hi>improve</hi> and <hi>ſecure</hi> them to <hi>Our ſelves,</hi> and <hi>Our Poſterity:</hi> And ſure the moſt <hi>Natural way</hi> to that end, is to call to minde, and avoid <hi>thoſe Errours</hi> that <hi>brought</hi> us into thoſe <hi>miſeries</hi> from which we are <hi>redeemed.</hi>
+            </p>
+            <p>Many are the <hi>cauſes too boldly aſſigned,</hi> for the Calami<g ref="char:EOLhyphen"/>ties theſe <hi>Nations</hi> ſo long laboured under: But in ſuch <hi>In<g ref="char:EOLhyphen"/>quiſitions</hi> the <hi>verdict</hi> is ſeldom impartially brought in, the <hi>Jury</hi> are too often <hi>the Criminals:</hi> But I think I may ſafely ſay, that <hi>one,</hi> and that a <hi>fundamental cauſe,</hi> was, that the <hi>late King</hi> was <hi>malitiouſly repreſented</hi> to the People; I am ſure the <hi>Freedom, Peace, Plenty,</hi> and <hi>Happineſſes</hi> they were told they ſhould <hi>enjoy without him,</hi> proved miſerable and fatal <hi>deluſions.</hi>
+            </p>
+            <p>Let us miſtruſt thoſe that ſhall uſe the ſame Arts, leſt they involve us in the ſame miſerie; and let us judge of the <hi>Kings intentions</hi> to his people, by his <hi>Publique Acts</hi> of grace and bounty; by his mild and eaſie Government; by his deſire and endeavours to make his Subjects happy at home, and renowned abroad; and by the reluctancy of his Nature to juſt ſeverity, when the wickedneſs or frenzy of the worſt Offendors extort it from him.</p>
+            <p>That ſomething will be amiſs in the Adminiſtration of the moſt perfect Government in this world, muſt be ex<g ref="char:EOLhyphen"/>pected;
+<pb n="6" facs="tcp:31050:6"/>but whoever ſhall think that thoſe things are to be <hi>rectified by force upon the Government,</hi> and than effected, propoſes to acquieſce, and return to <hi>Obedience,</hi> cannot <hi>know himſelf</hi> ſo well, as to be ſure, that <hi>Opportunity</hi> and <hi>ſucceſs</hi> may not ſuggeſt more <hi>inordinate Appetites</hi> to him; And there are thoſe alive that know, how far further than their <hi>firſt intention,</hi> the <hi>Reformers</hi> of our times were led on, til the unwarrantable force they had raiſed, grow <hi>too ſtrong</hi> for their <hi>Management</hi> flew in their faces, and in concluſion <hi>juct<g ref="char:EOLhyphen"/>ed thoſe villanies,</hi> that I dare ſay their <hi>Souls abhorred;</hi> but neither their <hi>Policy</hi> or <hi>Power</hi> could reſtrain.</p>
+            <p>We have had <hi>ſad experience,</hi> and let as be the wiſer for it, in how <hi>ſhort a time,</hi> in how <hi>few days,</hi> the <hi>induſtry</hi> of <hi>many years,</hi> nay, of <hi>an Age,</hi> may be deſtroyed and laid waſte, when <hi>Rage and Rapine</hi> are let looſe. If once <hi>Sedition</hi> grow too ſtrong for the <hi>Law,</hi> and <hi>Rebellion</hi> for the <hi>Magi<g ref="char:EOLhyphen"/>ſtrate,</hi> ſo that the <hi>Law</hi> is <hi>ſilenced,</hi> or the language of it cor<g ref="char:EOLhyphen"/>rupted, or inverted, and the <hi>Magiſtrate</hi> removed as <hi>bur<g ref="char:EOLhyphen"/>thenſome</hi> and <hi>unneceſſary,</hi> let us remember what variety of <hi>miſery</hi> and <hi>miſchief</hi> is brought upon the <hi>people,</hi> how unſup<g ref="char:EOLhyphen"/>portable their <hi>ſufferings</hi> are, and how intolerable their <hi>fears of ſuffering</hi> they know not what more, by whom, or how long. Let the people remember how <hi>many,</hi> and how <hi>chargeable</hi> their <hi>Maſters,</hi> nay how <hi>many</hi> and <hi>chargeable</hi> the <hi>changes</hi> of their <hi>Maſters</hi> were, when once they fooliſhly <hi>affected the miſery,</hi> indeed the <hi>impoſſibility of having none,</hi>
+            </p>
+            <p>When <hi>Miſrepreſentations</hi> had taken <hi>place</hi> and <hi>root</hi> in the mindes of the people, their hearts grew <hi>narrow</hi> and <hi>barren,</hi> towards the <hi>King;</hi> thoſe that ſoon after rob'd them both perſwading them to keep their <hi>purſes full for them to empty.</hi>
+            </p>
+            <p>This cloſe <hi>Oratory</hi> is ſeldom <hi>unſucceſsful,</hi> but what the people got by following this <hi>thrifty counſel,</hi> ſome have taken the pains to compute, and it is found, that the <hi>Im<g ref="char:EOLhyphen"/>poſitions</hi> laid and levied upon the people, to ſupport <hi>
+                  <g ref="char:V">Ʋ</g>ſur<g ref="char:EOLhyphen"/>pation</hi> and <hi>Tyrannie,</hi> in a few <hi>bad years</hi> came to more, than the moſt chargeable <hi>Princes</hi> had raiſed in ſome Ages to <hi>con<g ref="char:EOLhyphen"/>quer Enemies</hi> and <hi>Infidels</hi> abroad, whileſt this was <hi>employed</hi>
+               <pb n="7" facs="tcp:31050:6" rendition="simple:additions"/>to make <hi>Enemies</hi> of <hi>Friends,</hi> and little better than <hi>Infi<g ref="char:EOLhyphen"/>dels</hi> of <hi>Chriſtians</hi> at home.</p>
+            <p>I confeſs, this <hi>Animadverſion</hi> is not ſo ſeaſonable now, or proper to be <hi>applied</hi> to you, who in your <hi>Liberalities,</hi> have out gone all <hi>Example,</hi> and prevented <hi>even the Kings wiſhes;</hi> nor are thoſe <hi>Liberalities</hi> the <hi>leſs,</hi> but the <hi>more</hi> valued by Him, that he intends to <hi>apply them</hi> intirely to the ſecurity and improvement of a <hi>true Proteſtant,</hi> and a <hi>right Engliſh Intereſt</hi> in this Kingdom.</p>
+            <p>There is nothing that declares, indeed that conſtitutes perfect union, and a <hi>happy Harmony,</hi> ſo much as <hi>mutual truſts</hi> and <hi>confidences,</hi> and the interchange of <hi>gifts</hi> and <hi>be<g ref="char:EOLhyphen"/>nefits;</hi> it is ſo in private <hi>Friendſhip,</hi> and it is much more ſo, in that good <hi>Intelligence</hi> which muſt make a <hi>King and his people happy.</hi>
+            </p>
+            <p>The <hi>King</hi> has truſted you as far as even <hi>King</hi> truſted Subjects, and He has given you more than ever any <hi>King</hi> or <hi>Lord of Ireland</hi> had to give.</p>
+            <p>You have truſted <hi>the King with all you had,</hi> and all <hi>you</hi> had to pretend to; and you have given <hi>Him more</hi> than he thought of to deſire; Let it not therefore <hi>be apprehended,</hi> that this <hi>Commerce</hi> muſt ceaſe by the <hi>Prodigality</hi> on both ſides, as if there were no more to be <hi>given</hi> or <hi>received<g ref="char:punc">▪</g>
+               </hi> No, my <hi>Lords</hi> and <hi>Gentlemen,</hi> protection from <hi>Foreign Inva<g ref="char:EOLhyphen"/>ſion</hi> and <hi>Rebellion</hi> at home, the due and uncorrupt admini<g ref="char:EOLhyphen"/>ſtration of <hi>Government,</hi> and of the <hi>Laws,</hi> and under them the <hi>advancement</hi> and <hi>encouragement</hi> of <hi>Piety</hi> and <hi>Learning, Trade,</hi> and all ſorts of <hi>Induſtry</hi> and <hi>Improvements,</hi> are be<g ref="char:EOLhyphen"/>nefits that may to the <hi>end of time,</hi> deſcend from the Throne to you and yours: And a due ſubjection to that Govern<g ref="char:EOLhyphen"/>ment, and obedience to thoſe Laws, and application to that Piety and Learning, to that Trade and Induſtry, and to thoſe Improvements, may be as laſting Retributions from the People to the Throne.</p>
+            <p>I ſhould here end this unuſual Exerciſe, but that I am commanded by the <hi>King</hi> to let you know; that as he is abundantly ſatisfied with thoſe demonſtrations of <hi>Duty, Loyalty</hi> and <hi>Affection</hi> you have given him, during the whole
+<pb n="12" facs="tcp:31050:7" rendition="simple:additions"/>time of your ſitting, ſo he looks with great <hi>Pleaſure</hi> &amp; <hi>De<g ref="char:EOLhyphen"/>light</hi> upon thoſe <hi>Acts</hi> of <hi>Grace</hi> and <hi>Bounty</hi> that have paſt from him to you; and he commands me to be ſure not to forget to aſſure you, upon all Proper Occaſions that all his <hi>Promiſes</hi> ſhall be <hi>inviolably obſerved;</hi> and that the will <hi>con<g ref="char:EOLhyphen"/>ſent</hi> to whatever elſe may make this <hi>Kingdom flouriſhing</hi> and <hi>happy,</hi> whether it ſhall be the Enacting of <hi>new</hi> and <hi>pro<g ref="char:EOLhyphen"/>fitable,</hi> or the <hi>repeal</hi> of <hi>old, unuſeful,</hi> or <hi>burthen ſome Laws.</hi>
+            </p>
+            <p>To ſay <hi>any thing</hi> of, or from <hi>my Self</hi> in this place, may be <hi>Preſumption;</hi> but to ſay nothing to <hi>you, my Lords and Gentlemen,</hi> to whom I owe ſo much muſt be <hi>Ingratitude.</hi> You have before and ſince <hi>my Arrival,</hi> been pleaſed to make <hi>many</hi> and <hi>obliging Expreſſions</hi> of <hi>your Approbation</hi> of the <hi>Kings choice</hi> of Me for this Government: I have great reaſon to fear, both the <hi>King</hi> and <hi>you</hi> conſulted <hi>your Indul<g ref="char:EOLhyphen"/>gence</hi> to Me, more than <hi>your judgement</hi> of Me.</p>
+            <p>Yet without much <hi>preſumption</hi> or <hi>vanity,</hi> I think I may ſay, thus far the <hi>King</hi> and <hi>you</hi> may be excuſable, that He choſe, and You approved a <hi>Perſon,</hi> whoſe Fortune and Fa<g ref="char:EOLhyphen"/>milie muſt proſper or decay, muſt ruine or ſubſiſt by and with this Kingdom. This has not perhaps alwaies been <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> caſe, and it is poſſible mean <hi>Abilities</hi> thus ſtimulates, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be more <hi>profitably induſtrious</hi> than greater, actuated, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leſs, or by <hi>contrary Incentives.</hi> There are upon me all <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ginable <hi>Obligations</hi> to applie all that is in me, to the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <hi>proſperity</hi> of this Kingdom: Thoſe of <hi>duty, fidelity</hi> and <hi>thankefulneſs</hi> to the beſt, and moſt bountiful <hi>Maſter</hi> in the world; thoſe of <hi>Retribution</hi> and <hi>Gratitude</hi> to you, for ex<g ref="char:EOLhyphen"/>traordinary and liberal manifeſtations of <hi>kindeneſs</hi> and <hi>af<g ref="char:EOLhyphen"/>fection,</hi> and thoſe of ſelf-preſervation and happineſs Hence it may be concluded reaſonablie and naturallie, that my endeavours will be hearty and faithful and my failin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which ſhall be as few as I can unvoluntary, and therefo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the more pardonable.</p>
+            <p>
+               <hi>You will preſently, when I am retired, be at liberty at <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>journ your ſelves to the time you deſired.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
